@@ -16,8 +16,10 @@ A simple React application that converts USD to Bitcoin using real-time data fet
 
 ## Installation
 
-1. **Unzip the zip file:**
-   cd bitcoin-widget
+1. **Clone the repo:**
+
+   - https://github.com/Jidekas/Bitcoin_converter/
+   - cd Bitcoin_converter
 
    ```
 
